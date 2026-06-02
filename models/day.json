@@ -1,0 +1,370 @@
+[
+  {
+    "text": "hoje foi um dia incrível, me sinto muito bem",
+    "category": "positive"
+  },
+  {
+    "text": "estou muito feliz com tudo que aconteceu",
+    "category": "positive"
+  },
+  {
+    "text": "consegui terminar tudo que precisava, ótimo dia",
+    "category": "positive"
+  },
+  {
+    "text": "me sinto energizado e motivado",
+    "category": "positive"
+  },
+  {
+    "text": "foi um dia produtivo e satisfatório",
+    "category": "positive"
+  },
+  {
+    "text": "tive ótimas notícias hoje, estou animado",
+    "category": "positive"
+  },
+  {
+    "text": "me sinto realizado e contente",
+    "category": "positive"
+  },
+  {
+    "text": "hoje foi maravilhoso, adorei cada momento",
+    "category": "positive"
+  },
+  {
+    "text": "muito bom",
+    "category": "positive"
+  },
+  {
+    "text": "ótimo",
+    "category": "positive"
+  },
+  {
+    "text": "foi bom",
+    "category": "positive"
+  },
+  {
+    "text": "bem",
+    "category": "positive"
+  },
+  {
+    "text": "boa",
+    "category": "positive"
+  },
+  {
+    "text": "incrível",
+    "category": "positive"
+  },
+  {
+    "text": "excelente",
+    "category": "positive"
+  },
+  {
+    "text": "feliz",
+    "category": "positive"
+  },
+  {
+    "text": "hoje foi ótimo",
+    "category": "positive"
+  },
+  {
+    "text": "correu tudo bem",
+    "category": "positive"
+  },
+  {
+    "text": "today was amazing, I feel great",
+    "category": "positive"
+  },
+  {
+    "text": "I'm really happy with how everything went",
+    "category": "positive"
+  },
+  {
+    "text": "got a lot done today, feeling accomplished",
+    "category": "positive"
+  },
+  {
+    "text": "I feel energized and motivated",
+    "category": "positive"
+  },
+  {
+    "text": "it was a productive and fulfilling day",
+    "category": "positive"
+  },
+  {
+    "text": "great news today, I'm excited",
+    "category": "positive"
+  },
+  {
+    "text": "feeling really good about everything",
+    "category": "positive"
+  },
+  {
+    "text": "today was wonderful, loved every moment",
+    "category": "positive"
+  },
+  {
+    "text": "very good",
+    "category": "positive"
+  },
+  {
+    "text": "great",
+    "category": "positive"
+  },
+  {
+    "text": "good",
+    "category": "positive"
+  },
+  {
+    "text": "awesome",
+    "category": "positive"
+  },
+  {
+    "text": "fantastic",
+    "category": "positive"
+  },
+  {
+    "text": "happy",
+    "category": "positive"
+  },
+  {
+    "text": "foi um dia horrível, estou exausto",
+    "category": "negative"
+  },
+  {
+    "text": "me sinto péssimo, nada deu certo hoje",
+    "category": "negative"
+  },
+  {
+    "text": "estou muito estressado e frustrado",
+    "category": "negative"
+  },
+  {
+    "text": "tive um dia muito difícil e cansativo",
+    "category": "negative"
+  },
+  {
+    "text": "recebi notícias ruins e estou arrasado",
+    "category": "negative"
+  },
+  {
+    "text": "me sinto triste e desmotivado",
+    "category": "negative"
+  },
+  {
+    "text": "hoje foi terrível, não quero nem falar",
+    "category": "negative"
+  },
+  {
+    "text": "estou ansioso e sobrecarregado com tudo",
+    "category": "negative"
+  },
+  {
+    "text": "ruim",
+    "category": "negative"
+  },
+  {
+    "text": "péssimo",
+    "category": "negative"
+  },
+  {
+    "text": "horrível",
+    "category": "negative"
+  },
+  {
+    "text": "terrível",
+    "category": "negative"
+  },
+  {
+    "text": "muito ruim",
+    "category": "negative"
+  },
+  {
+    "text": "triste",
+    "category": "negative"
+  },
+  {
+    "text": "cansado",
+    "category": "negative"
+  },
+  {
+    "text": "exausto",
+    "category": "negative"
+  },
+  {
+    "text": "hoje foi ruim",
+    "category": "negative"
+  },
+  {
+    "text": "não foi bom",
+    "category": "negative"
+  },
+  {
+    "text": "today was awful, I'm exhausted",
+    "category": "negative"
+  },
+  {
+    "text": "feeling terrible, nothing went right today",
+    "category": "negative"
+  },
+  {
+    "text": "I'm really stressed and frustrated",
+    "category": "negative"
+  },
+  {
+    "text": "it was a really tough and draining day",
+    "category": "negative"
+  },
+  {
+    "text": "got bad news today, feeling devastated",
+    "category": "negative"
+  },
+  {
+    "text": "I feel sad and unmotivated",
+    "category": "negative"
+  },
+  {
+    "text": "today was terrible",
+    "category": "negative"
+  },
+  {
+    "text": "I'm anxious and overwhelmed",
+    "category": "negative"
+  },
+  {
+    "text": "bad",
+    "category": "negative"
+  },
+  {
+    "text": "awful",
+    "category": "negative"
+  },
+  {
+    "text": "terrible",
+    "category": "negative"
+  },
+  {
+    "text": "sad",
+    "category": "negative"
+  },
+  {
+    "text": "exhausted",
+    "category": "negative"
+  },
+  {
+    "text": "horrible",
+    "category": "negative"
+  },
+  {
+    "text": "foi um dia normal, nada de especial",
+    "category": "neutral"
+  },
+  {
+    "text": "as coisas foram ok, nem bom nem ruim",
+    "category": "neutral"
+  },
+  {
+    "text": "dia comum, fiz o que tinha que fazer",
+    "category": "neutral"
+  },
+  {
+    "text": "passou rápido, foi tranquilo",
+    "category": "neutral"
+  },
+  {
+    "text": "nada de novo, dia igual aos outros",
+    "category": "neutral"
+  },
+  {
+    "text": "foi razoável, algumas coisas boas e outras nem tanto",
+    "category": "neutral"
+  },
+  {
+    "text": "dia sem grandes acontecimentos",
+    "category": "neutral"
+  },
+  {
+    "text": "mais ou menos",
+    "category": "neutral"
+  },
+  {
+    "text": "normal",
+    "category": "neutral"
+  },
+  {
+    "text": "ok",
+    "category": "neutral"
+  },
+  {
+    "text": "regular",
+    "category": "neutral"
+  },
+  {
+    "text": "tranquilo",
+    "category": "neutral"
+  },
+  {
+    "text": "razoável",
+    "category": "neutral"
+  },
+  {
+    "text": "médio",
+    "category": "neutral"
+  },
+  {
+    "text": "it was a normal day, nothing special",
+    "category": "neutral"
+  },
+  {
+    "text": "things were okay, not good not bad",
+    "category": "neutral"
+  },
+  {
+    "text": "just a regular day, did what I had to do",
+    "category": "neutral"
+  },
+  {
+    "text": "went by fast, pretty calm overall",
+    "category": "neutral"
+  },
+  {
+    "text": "nothing new, same as usual",
+    "category": "neutral"
+  },
+  {
+    "text": "decent day, some good some not so good",
+    "category": "neutral"
+  },
+  {
+    "text": "day without any major events",
+    "category": "neutral"
+  },
+  {
+    "text": "more or less, about what I expected",
+    "category": "neutral"
+  },
+  {
+    "text": "okay",
+    "category": "neutral"
+  },
+  {
+    "text": "fine",
+    "category": "neutral"
+  },
+  {
+    "text": "alright",
+    "category": "neutral"
+  },
+  {
+    "text": "so so",
+    "category": "neutral"
+  },
+  {
+    "text": "not bad",
+    "category": "neutral"
+  },
+  {
+    "text": "average",
+    "category": "neutral"
+  }
+]
