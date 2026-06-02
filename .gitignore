@@ -1,0 +1,7 @@
+logs/
+
+.bundle/
+vendor/
+
+.yardoc
+.yardoc/*
