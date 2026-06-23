@@ -16,8 +16,8 @@ class Bayes
   end
 
   def classify(text)
-    raise 'No training data availabe' if @documents.empty?
-    
+    raise 'No training data available' if @documents.empty?
+
     words = tokenize(text)
 
     scores = @documents.keys.map do |category|      
