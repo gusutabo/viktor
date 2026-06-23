@@ -1,12 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    classifier-reborn (2.3.0)
-      fast-stemmer (~> 1.0)
-      matrix (~> 0.4)
     diff-lcs (1.6.2)
-    fast-stemmer (1.0.2)
-    matrix (0.4.3)
     rspec (3.13.2)
       rspec-core (~> 3.13.0)
       rspec-expectations (~> 3.13.0)
@@ -26,7 +21,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  classifier-reborn
   rspec
 
 BUNDLED WITH

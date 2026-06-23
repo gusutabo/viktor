@@ -1,6 +1,7 @@
 # frozen_string_literal: false
 
-require 'classifier-reborn'
+require_relative 'bayes'
+
 require 'json'
 require 'date'
 require 'fileutils'
@@ -42,15 +43,20 @@ end
 
 class SentimentAnalyzer
   def initialize(training_file)
-    @classifier = ClassifierReborn::Bayes.new('positive', 'negative', 'neutral')
+    @classifier = Bayes.new
+    
     JSON.parse(File.read(training_file)).each do |row|
-      next if row['text'].nil? || row['category'].nil?
-      @classifier.train(row['category'].strip.downcase, sanitize(row['text']))
+      @classifier.train(
+        row['category'], 
+        sanitize(row['text'])
+      )
     end
   end
 
   def classify(text)
-    @classifier.classify(sanitize(text)).downcase
+    @classifier.classify(
+      sanitize(text)
+    )
   end
 
   private
