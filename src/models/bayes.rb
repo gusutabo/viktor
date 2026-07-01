@@ -1,8 +1,9 @@
-# P(Ck | X) = P(X|Ck) * P(Ck) / P(X)
+# frozen_string_literal: true
+
 class Bayes
   def initialize
     @categories = Hash.new { |h, k| h[k] = Hash.new(0) }
-    @documents = Hash.new(0)
+    @documents  = Hash.new(0)
     @vocabulary = {}
   end
 
@@ -20,11 +21,11 @@ class Bayes
 
     words = tokenize(text)
 
-    scores = @documents.keys.map do |category|      
+    scores = @documents.keys.map do |category|
       score = Math.log(prior(category))
 
       words.each do |word|
-        score += Math.log(likelihood(word, category))   
+        score += Math.log(likelihood(word, category))
       end
 
       [category, score]
@@ -46,7 +47,7 @@ class Bayes
   def likelihood(word, category)
     word_count = @categories[category][word]
     total_words = @categories[category].values.sum
-    
+
     (word_count + 1).to_f / (total_words + @vocabulary.size)
   end
 end
