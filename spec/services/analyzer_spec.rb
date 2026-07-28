@@ -33,3 +33,4 @@ RSpec.describe SentimentAnalyzer do
       expect(analyzer.classify('That was an awful and terrible experience.')).to eq('negative')
     end
   end
+end
