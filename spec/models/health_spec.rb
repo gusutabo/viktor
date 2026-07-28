@@ -23,3 +23,4 @@ RSpec.describe Health do
       expect(health.bmi_category(45.0)).to eq(:obese3)
     end
   end
+end

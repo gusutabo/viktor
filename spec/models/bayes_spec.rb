@@ -19,3 +19,4 @@ RSpec.describe Bayes do
       expect(bayes.classify('I am angry and sad')).to eq('negative')
     end
   end
+end
