@@ -3,7 +3,7 @@
 A quiet daily companion for your health.
 
 > [!NOTE]
-> Full project documentation is available in `[docs/](./docs/)` with separate English and Portuguese folders.
+> Full project documentation is available in `docs/` with separate English and Portuguese folders.
 
 ## Requirements
 
