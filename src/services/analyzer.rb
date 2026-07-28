@@ -2,7 +2,7 @@
 
 require 'json'
 
-require_relative '../model/bayes'
+require_relative '../models/bayes'
 
 class SentimentAnalyzer
   def initialize(training_file)
