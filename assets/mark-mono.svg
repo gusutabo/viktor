@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges" role="img" aria-label="Viktor">
+  
+  <g>
+    <rect x="8.0" y="4.0" width="4" height="4" fill="currentColor"/>
+    <rect x="24.0" y="4.0" width="4" height="4" fill="currentColor"/>
+    <rect x="8.0" y="8.0" width="24" height="4" fill="currentColor"/>
+    <rect x="8.0" y="12.0" width="28" height="4" fill="currentColor"/>
+    <rect x="8.0" y="16.0" width="8" height="4" fill="currentColor"/>
+    <rect x="28.0" y="16.0" width="8" height="4" fill="currentColor"/>
+    <rect x="36.0" y="16.0" width="8" height="4" fill="currentColor"/>
+    <rect x="8.0" y="20.0" width="8" height="4" fill="currentColor"/>
+    <rect x="20.0" y="20.0" width="4" height="4" fill="currentColor"/>
+    <rect x="28.0" y="20.0" width="8" height="4" fill="currentColor"/>
+    <rect x="36.0" y="20.0" width="16" height="4" fill="currentColor"/>
+    <rect x="8.0" y="24.0" width="8" height="4" fill="currentColor"/>
+    <rect x="28.0" y="24.0" width="8" height="4" fill="currentColor"/>
+    <rect x="36.0" y="24.0" width="8" height="4" fill="currentColor"/>
+    <rect x="12.0" y="28.0" width="4" height="4" fill="currentColor"/>
+    <rect x="28.0" y="28.0" width="8" height="4" fill="currentColor"/>
+    <rect x="12.0" y="32.0" width="4" height="4" fill="currentColor"/>
+    <rect x="28.0" y="32.0" width="16" height="4" fill="currentColor"/>
+    <rect x="8.0" y="36.0" width="8" height="4" fill="currentColor"/>
+    <rect x="28.0" y="36.0" width="28" height="4" fill="currentColor"/>
+    <rect x="8.0" y="40.0" width="8" height="4" fill="currentColor"/>
+    <rect x="28.0" y="40.0" width="32" height="4" fill="currentColor"/>
+    <rect x="8.0" y="44.0" width="12" height="4" fill="currentColor"/>
+    <rect x="28.0" y="44.0" width="32" height="4" fill="currentColor"/>
+    <rect x="12.0" y="48.0" width="44" height="4" fill="currentColor"/>
+    <rect x="16.0" y="52.0" width="32" height="4" fill="currentColor"/>
+    <rect x="20.0" y="56.0" width="8" height="4" fill="currentColor"/>
+    <rect x="36.0" y="56.0" width="8" height="4" fill="currentColor"/>
+  </g>
+</svg>
