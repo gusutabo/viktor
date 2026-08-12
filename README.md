@@ -1,11 +1,11 @@
-<picture>
+<div align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo.svg">
   <img alt="Viktor" src="./assets/logo-light.svg" width="380">
 </picture>
+</div>
 
 # Viktor
-
-A quiet daily companion for your health.
 
 Viktor asks how your day went, records your weight, sleep, exercise, and meals,
 and turns them into weekly and monthly reports. It runs in your terminal and
