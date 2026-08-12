@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'json'
+
 class Storage
   def save(path, data)
     FileUtils.mkdir_p(File.dirname(path))
